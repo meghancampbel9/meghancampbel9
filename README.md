@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a software engineer with a passion for building tools that apply AI models to real-world challenges. My background in engineering and experience in full-stack software development fuel my innovative approach to technology.
+I'm a software engineer with a passion for building tools for real-world challenges. My background in engineering and experience in full-stack software development fuel my innovative approach to technology.
 
-Combining experience in fullstack software development and robotics engineering, I’ve cultivated expertise in developing end-to-end products that span hardware and software.
+Combining experience in full-stack software development and robotics engineering, I’ve cultivated expertise in developing end-to-end products that span both hardware and software.
 
 ## 💡 What I Do:
 
-🛠 Full-Stack Development: 1.5 years of experience designing & developing dynamic web applications with React Typescript and microservices in Go/Python.
+🛠 Full-Stack Development: 1.5 years of experience designing & developing dynamic web applications with React Typescript, while building microservices using Go and Python.
 
-🔧 System Integration: 1.5 years of experience in system integration, focusing on control systems and autonomous robots.
+🔧 System Integration: 1.5 years of hands-on experience in system integration, focusing on control systems and autonomous robotics.
 
 📋 Management: 3 years of experience leading cross-functional teams, supervising external contractors, and managing project timelines to ensure high-quality deliverables.
 
