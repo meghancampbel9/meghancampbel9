@@ -8,7 +8,7 @@ Combining experience in fullstack software development and robotics engineering,
 
 ## 💡 What I Do:
 
-🛠 Full-Stack Development: 1.5 years of experience creating dynamic web applications with React Typescript and microservices in Go/Python.
+🛠 Full-Stack Development: 1.5 years of experience designing & developing dynamic web applications with React Typescript and microservices in Go/Python.
 
 🔧 System Integration: 1.5 years of experience in system integration, focusing on control systems and autonomous robots.
 
