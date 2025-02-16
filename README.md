@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Meghan (@meghancampbel9)
+- 👀 I’m interested in the application of AI models
+- 📫 meghancampbel9@gmail.com
