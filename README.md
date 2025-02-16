@@ -4,7 +4,7 @@
 
 I'm a software engineer with a passion for building tools that apply AI models to real-world challenges. My background in engineering and experience in full-stack software development fuel my innovative approach to technology.
 
-Combining experience in fullstack software development and robotics engineering, I’ve cultivated expertise in developing end-to-end deep tech products that span hardware and software.
+Combining experience in fullstack software development and robotics engineering, I’ve cultivated expertise in developing end-to-end products that span hardware and software.
 
 ## 💡 What I Do:
 
