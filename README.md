@@ -26,7 +26,7 @@ Python, TypeScript, HTML, CSS, C++, Bash
 
 Frontend: React, Figma
 
-Backend: gRPC, Protobuf, Yang, GitLab CI/CD, Firebase
+Backend: Python, Firebase, gRPC, Protobuf, Yang, GitLab CI/CD
 
 Hardware: Raspberry Pi, ESP32, PLC, Radar
 
