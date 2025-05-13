@@ -4,8 +4,6 @@
 
 I'm a software engineer with a passion for building tools for real-world challenges. My background in engineering and experience in full-stack software development fuel my innovative approach to technology.
 
-Combining experience in full-stack software development and robotics engineering, I’ve cultivated expertise in developing end-to-end products that span both hardware and software.
-
 ## 💡 What I Do:
 
 💻 𝘍𝘶𝘭𝘭-𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵: 1.5 years of experience designing & developing a dynamic web configuration system for an IOT device.
