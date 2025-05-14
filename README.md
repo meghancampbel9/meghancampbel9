@@ -12,7 +12,7 @@ I'm a software engineer with a passion for building tools for real-world challen
 
 ## 🌱 Interests and Goals
 
-I'm eager to expand my expertise in building tools for AI model applications. My experience with IoT and autonomous robotic systems has shown me how impactful well-integrated AI tools can be. I'm especially excited about developing solutions that apply AI in a way that amplifies user agency and fosters independence in decision-making.
+I'm eager to expand my expertise in building tools for AI model applications. My experience with IoT and robotic systems has shown me how impactful well-integrated AI tools can be. I'm especially excited about developing solutions that apply AI in a way that amplifies user agency and fosters independence in decision-making.
 
 ## 🛠 Skills
 
