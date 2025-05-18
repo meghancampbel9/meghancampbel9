@@ -8,15 +8,9 @@ From robotics and IoT to emerging digital platforms, I’m passionate about buil
 
 ## 🛠 Skills
 
-### Programming Languages:
+Frontend: React, TypeScript, HTML, CSS, Figma
 
-Python, TypeScript, HTML, CSS, C++, Bash
-
-### Frameworks & Tools:
-
-Frontend: React, Figma
-
-Backend: Python, Go, Google Cloud, Firebase, gRPC
+Backend: Python, Go, gRPC, Google Cloud, Firebase
 
 Hardware: Raspberry Pi, ESP32, PLC, Radar
 
