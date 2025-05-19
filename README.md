@@ -6,6 +6,8 @@ I’m a fullstack software engineer who loves turning complex ideas into intuiti
 
 From robotics and IoT to emerging digital platforms, I’m passionate about building innovative systems that prioritize user experience.
 
+P.S. I'm more active on [Gitlab](https://gitlab.com/meghancampbell) 😉
+
 ## 🛠 Skills
 
 Frontend: React, TypeScript, HTML, CSS, Figma
