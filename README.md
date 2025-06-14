@@ -10,9 +10,9 @@ From robotics and IoT to emerging digital platforms, I’m passionate about buil
 
 Frontend: React, TypeScript, HTML, CSS, Figma
 
-Backend: Python, Go, gRPC, Google Cloud, Firebase
+Backend: Python, Go, gRPC, Google Cloud, Supabase
 
-Hardware: Raspberry Pi, ESP32, PLC, Radar
+Hardware: Raspberry Pi, ESP32, PLC, Radar, Arduino
 
 ## 📫 How to Reach Me
 
