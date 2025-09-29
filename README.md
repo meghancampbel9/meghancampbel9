@@ -1,16 +1,16 @@
-## 🚀 About Me
+## 🚀 About
 
 I’m a fullstack software engineer who loves turning complex ideas into intuitive products. 
 
 From robotics and IoT to emerging digital platforms, I’m passionate about building innovative systems that prioritize user experience.
 
-## 🛠 Skills
+## 🛠 Stack
 
-Frontend: React, TypeScript, HTML, CSS, Figma
+**Frontend:** React, TypeScript, HTML, CSS, Figma
 
-Backend: Python, Go, gRPC, FastAPI, SQL/NoSQL
+**Backend:** Python, Go, gRPC, FastAPI, SQL/NoSQL
 
-Infra: AWS, Kafka, OpenTelemetry, Supabase
+**Infra:** AWS, Kafka, OpenTelemetry, Supabase
 
-Hardware: Raspberry Pi, ESP32, PLC, Radar, Arduino
+**Hardware:** Raspberry Pi, ESP32, PLC, Radar, Arduino
 
