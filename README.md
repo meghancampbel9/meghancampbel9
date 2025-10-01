@@ -1,8 +1,8 @@
-## About
+### About
 
 Fullstack software engineer who loves turning complex ideas into intuitive products
 
-## Stack
+### Stack
 
 **Frontend:** React, TypeScript, HTML, CSS, Figma
 
