@@ -1,6 +1,6 @@
 ### About
 
-Fullstack software engineer who loves turning complex ideas into intuitive products
+I'm a fullstack software engineer with a background in mechatronics, who loves turning complex ideas into intuitive products
 
 ### Stack
 
