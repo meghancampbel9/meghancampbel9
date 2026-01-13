@@ -1,2 +1,2 @@
-Personal projects only!
+Personal projects ~
 
