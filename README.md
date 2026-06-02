@@ -1,4 +1,4 @@
 Personal projects ~
 
-currently https://github.com/shadownet-protocol
+currently: https://github.com/shadownet-protocol
 
